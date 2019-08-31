@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Sample demo app - ICP!! - Version
+Implementation-Version: 1.0
+Built-By: Test
+Implementation-Vendor-Id: com.ibm.redbooksproject.example
+Build-Jdk: 1.8.0_201-2-redhat
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: com.ibm.redbooksproject.example.demo.DemoApplication
+
